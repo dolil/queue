@@ -278,3 +278,8 @@ html[xmlns] .flexslider .slides {
     right: 10px;
   }
 }
+
+
+#iframe1 .flex-direction-nav .flex-next {
+    display: none !important;
+}
